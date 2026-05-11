@@ -1,5 +1,5 @@
 # Angular specific
-/dist/
+#/dist/ # I actually want the build files in the repo for deployment
 /out-tsc/
 /tmp/
 /coverage/
